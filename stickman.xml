@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stickman>
+	<head />
+	<body>
+		<neck />
+		<hands>
+			<hand />
+			<hand />
+		</hands>
+		<legs>
+			<leg />
+			<leg />
+		</legs>
+	</body>
+</stickman>
